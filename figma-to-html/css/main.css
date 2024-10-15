@@ -1,0 +1,217 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v441_326 {
+  width: 100%;
+  height: 2500px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v441_370 {
+  width: 100%;
+  height: 51px;
+  background: url("../images/v441_370.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 26px;
+  left: 100px;
+  overflow: hidden;
+}
+.v441_334 {
+  width: 185px;
+  height: 51px;
+  background: rgba(255,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 1015px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  overflow: hidden;
+}
+.v441_328 {
+  width: 237px;
+  height: 39px;
+  background: url("../images/v441_328.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  left: 0px;
+  overflow: hidden;
+}
+.v441_330 {
+  width: 79px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 14px;
+  left: 716px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v441_331 {
+  width: 52px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 14px;
+  left: 832px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v441_332 {
+  width: 68px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 14px;
+  left: 921px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v441_333 {
+  width: 142px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 14px;
+  left: 1037px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v441_371 {
+  width: 100%;
+  height: 518px;
+  background: url("../images/v441_371.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 98px;
+  left: 0px;
+  overflow: hidden;
+}
+.v441_339 {
+  width: 100%;
+  height: 518px;
+  background: url("../images/v441_339.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v441_335 {
+  width: 100%;
+  height: 518px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v441_337 {
+  width: 100%;
+  height: 986px;
+  background: url("../images/v441_337.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 156px;
+  left: 14px;
+  overflow: hidden;
+}
+.v441_372 {
+  width: 100%;
+  height: 558px;
+  background: url("../images/v441_372.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 675px;
+  left: 100px;
+  overflow: hidden;
+}
+.v441_340 {
+  width: 478px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 361px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
+.v441_366 {
+  width: 380px;
+  height: 380px;
+  background: url("../images/v441_366.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 178px;
+  left: 0px;
+  overflow: hidden;
+}
+.v441_368 {
+  width: 379px;
+  height: 380px;
+  background: url("../images/v441_368.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 178px;
+  left: 411px;
+  overflow: hidden;
+}
+.v441_369 {
+  width: 380px;
+  height: 380px;
+  background: url("../images/v441_369.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 178px;
+  left: 821px;
+  overflow: hidden;
+}
